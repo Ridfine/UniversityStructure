@@ -1,0 +1,6 @@
+rootProject.name = 'UniversityStructure'
+include 'model'
+include 'serializer'
+include 'generator'
+include 'deserializer'
+
